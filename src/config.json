@@ -1,1 +1,4 @@
-
+{
+  "status": "online",
+  "token": "YOUR_SECURED_TOKEN_HERE"
+}
