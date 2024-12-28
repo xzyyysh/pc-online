@@ -1,0 +1,11 @@
+{
+  "name": "pc-online",
+  "version": "1.0.0",
+  "description": "A tool to set your Discord account status to online, dnd, or idle using discord.js-selfbot-v13.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
