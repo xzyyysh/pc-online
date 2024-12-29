@@ -12,7 +12,7 @@ This project is a Discord self-bot that allows you to set your account status to
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pc-online.git
+   git clone https://github.com/lyssadev/pc-online.git
    cd pc-online
    ```
 
